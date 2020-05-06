@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\Prvi_Drugi\bin\Debug\Prvi_Drugi.exe.config
+C:\Users\Korisnik\source\repos\Prvi_Drugi\bin\Debug\Prvi_Drugi.exe
+C:\Users\Korisnik\source\repos\Prvi_Drugi\bin\Debug\Prvi_Drugi.pdb
+C:\Users\Korisnik\source\repos\Prvi_Drugi\obj\Debug\Prvi_Drugi.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Prvi_Drugi\obj\Debug\Prvi_Drugi.exe
+C:\Users\Korisnik\source\repos\Prvi_Drugi\obj\Debug\Prvi_Drugi.pdb
